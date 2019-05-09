@@ -11,4 +11,4 @@ http://3d375032374147a7865753e4bbc92682.xyz/
 copy client id and download the apk
 
 
-
+![](https://imgur.com/JcwZE48.png)
